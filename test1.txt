@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hgf jfj 
+=======
+hgf jfj  uetu eue
+>>>>>>> 50ff07c1a4b74d180f1cb86762f93100821ba2b3
